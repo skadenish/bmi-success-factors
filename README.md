@@ -2,7 +2,7 @@
 ### Identifying Success Factors Using Steam Platform Data
 
 **Author:** Kulakov Anatolii
-**Supervisor:** LÃ¡szlÃ³ MolnÃ¡r
+**Supervisor:** László Molnár
 
 ## Initial Data
 
