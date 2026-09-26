@@ -6,7 +6,7 @@
 
 ## Initial Data
 
-> **[initial datasets download link (RAR)](https://www.dropbox.com/scl/fi/qk97lokkh3wow6i3ssb52/initial_data.rar?rlkey=j9ydwka68fm0h3gpifh1efc51&st=pklb6vhc&e=1&dl=1)**
+> **[Initial datasets download link (RAR)](https://www.dropbox.com/scl/fi/qk97lokkh3wow6i3ssb52/initial_data.rar?rlkey=j9ydwka68fm0h3gpifh1efc51&st=pklb6vhc&e=1&dl=1)**
 
 ## Overview
 
