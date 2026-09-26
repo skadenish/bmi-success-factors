@@ -1,0 +1,14 @@
+R2 score: 0.7871319185080087
+
+Feature importance:
+                 feature  importance
+       num_reviews_total    0.775031
+          game_age_years    0.060355
+average_playtime_forever    0.048930
+           pct_pos_total    0.048169
+                   price    0.041700
+               dlc_count    0.013574
+             multiplayer    0.005752
+            free_to_play    0.002464
+             competitive    0.002283
+            live_service    0.001741

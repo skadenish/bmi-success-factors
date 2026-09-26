@@ -1,0 +1,42 @@
+MODEL A: ADOPTION SCALE
+R2 = 0.38308282267043625
+
+       feature  importance
+game_age_years    0.284083
+ pct_pos_total    0.235009
+     dlc_count    0.208423
+         price    0.170259
+  live_service    0.055731
+   multiplayer    0.030320
+   competitive    0.009953
+  free_to_play    0.006220
+
+============================================================
+
+MODEL B: ADOPTION SPEED
+R2 = 0.04291095850899884
+
+       feature  importance
+game_age_years    0.436470
+ pct_pos_total    0.260316
+         price    0.162137
+     dlc_count    0.078746
+   multiplayer    0.030109
+   competitive    0.014180
+  live_service    0.011938
+  free_to_play    0.006104
+
+============================================================
+
+MODEL C: RETENTION
+R2 = 0.006893879934501523
+
+       feature  importance
+game_age_years    0.468714
+ pct_pos_total    0.227994
+         price    0.179731
+     dlc_count    0.057881
+   multiplayer    0.034056
+   competitive    0.011581
+  free_to_play    0.010311
+  live_service    0.009733
