@@ -4,9 +4,9 @@
 **Author:** Kulakov Anatolii
 **Supervisor:** LÃ¡szlÃ³ MolnÃ¡r
 
-## ð¥ Data
+## Initial Data
 
-> **[â¬ï¸ Download the initial datasets (RAR)](https://www.dropbox.com/scl/fi/qk97lokkh3wow6i3ssb52/initial_data.rar?rlkey=j9ydwka68fm0h3gpifh1efc51&st=pklb6vhc&e=1&dl=0)**
+> **[Download the initial datasets (RAR)](https://www.dropbox.com/scl/fi/qk97lokkh3wow6i3ssb52/initial_data.rar?rlkey=j9ydwka68fm0h3gpifh1efc51&st=pklb6vhc&e=1&dl=0)**
 
 ## Overview
 
